@@ -15,4 +15,4 @@ while True:
             print('you guessed it right!')
             break
     except ValueError:
-        print('pls enter a valid number')    
+        print('pls enter a valid number')
